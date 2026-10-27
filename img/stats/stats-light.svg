@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t d">
+  <title id="t">Ahmed's Profile Stats</title>
+  <desc id="d">Years in telecom: 12+; Current role: Roaming Expert; Employer: Rakuten Mobile Intl; Public repos: 5; Open-source skills: 1</desc>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="25" y="35" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#1a7f37">Ahmed's Profile Stats</text>
+  <circle cx="30" cy="65" r="3.5" fill="#00a000"/>
+  <text x="44" y="70" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#57606a">Years in telecom</text>
+  <text x="470" y="70" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#24292f">12+</text>
+  <circle cx="30" cy="90" r="3.5" fill="#00a000"/>
+  <text x="44" y="95" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#57606a">Current role</text>
+  <text x="470" y="95" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#24292f">Roaming Expert</text>
+  <circle cx="30" cy="115" r="3.5" fill="#00a000"/>
+  <text x="44" y="120" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#57606a">Employer</text>
+  <text x="470" y="120" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#24292f">Rakuten Mobile Intl</text>
+  <circle cx="30" cy="140" r="3.5" fill="#00a000"/>
+  <text x="44" y="145" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#57606a">Public repos</text>
+  <text x="470" y="145" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#24292f">5</text>
+  <circle cx="30" cy="165" r="3.5" fill="#00a000"/>
+  <text x="44" y="170" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#57606a">Open-source skills</text>
+  <text x="470" y="170" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#24292f">1</text>
+</svg>
