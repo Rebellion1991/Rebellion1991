@@ -11,7 +11,7 @@
 
 ## 🧭 About
 
-Roaming Expert at **Rakuten Mobile International (RMI)**, with **12+ years** in mobile core networks and international roaming. I work where **carrier-grade operations, APIs, and AI** meet, and I care about correctness, observability, and things that survive real traffic. Outside the day job I build in **Web3 and AI agents** and run a Japan-to-Cyprus car import business.
+Roaming Expert at **Rakuten Mobile International (RMI)**, with **12+ years** in mobile core networks and international roaming. I work where **carrier-grade operations, APIs, and AI** meet, and I care about correctness, observability, and things that survive real traffic. Outside the day job I build in **Web3 and AI agents**.
 
 ## ⚡ What I Do
 
@@ -76,8 +76,6 @@ Roaming Expert at **Rakuten Mobile International (RMI)**, with **12+ years** in 
 | --- | ----------- |
 | [**AltraderX**](https://altraderx.com) | Crypto trading platform |
 | [**NestCheck**](https://nestcheck.app) | Cohabitation compatibility quiz for couples |
-| **property-care** | Property care and maintenance app |
-| **travel-sniper** | Travel deal tracking app |
 
 ## 📊 GitHub Stats
 
